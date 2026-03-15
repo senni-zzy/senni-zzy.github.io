@@ -5,4 +5,4 @@ Master's Candidate, Research Direction: Graph Neural Networks，Convolutional ne
 
 Current Affiliation: Guangdong University of Finance & Economics, Guangzhou, Guangdong Province, China
 
-GDUFE Website：https://www.gdufe.edu.cn/
+[GDUFE Website](https://www.gdufe.edu.cn/)
